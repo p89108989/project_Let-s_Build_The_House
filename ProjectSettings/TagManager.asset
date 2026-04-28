@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - stone
+  - noticePoint
+  - brick
+  - synthesis
+  - wood
+  - iron
+  - fire
+  - water
+  - gravel
+  - Bullet
+  - Fire
+  - bluePrint
+  - clickedNoticePoint
+  - blackhole
+  - flame
+  - blackholeObstacle
+  - smoke
+  - speedup
+  - slowdown
+  - ground
+  - itembox
+  - removalToolMyself
+  - removalToolOther
+  - cement
+  - glass
+  - steel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - itembox
+  - ground
+  - '#01'
+  - '#02'
+  - '#03'
+  - '#04'
+  - '#05'
+  - '#06'
+  - '#07'
+  - '#08'
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
